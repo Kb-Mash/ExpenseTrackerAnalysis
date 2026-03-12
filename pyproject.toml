@@ -10,6 +10,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "jupyter>=1.1.1",
     "kaggle>=2.0.0",
     "kagglehub[pandas-datasets]>=1.0.0",
 ]
