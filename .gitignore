@@ -1,4 +1,4 @@
-*.csv
+#*.csv
 .cache/
 
 # Byte-compiled / optimized / DLL files
